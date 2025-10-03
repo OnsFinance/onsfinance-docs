@@ -1,24 +1,26 @@
-# OnsFinance Docs
+# Introduction
 
-Welcome to the official documentation repository for OnsFinance.  
-This repo contains all the guides, tokenomics, roadmap, and FAQs for developers and users.
-
----
-
-## 📘 Contents
-- [Introduction](introduction.md)
-- [Tokenomics](tokenomics.md)
-- [Roadmap](roadmap.md)
-- [FAQ](faq.md)
+OnsFinance is a next-generation Web3 platform bridging **real-world assets (RWAs)** with blockchain technology.  
+Our ecosystem allows users to invest in **gold** and, in the future, **Nasdaq stocks**, directly on the BNB Chain.
 
 ---
 
-## 🔗 Quick Links
-- Website: [onsfi.com](https://onsfi.com)
-- Telegram: [t.me/onsfinance](https://t.me/onsfinance)
-- Medium: [OnsFinance Blog](https://blog.onsfi.com)
+## 🌟 Mission
+To create a **secure, transparent, and accessible financial ecosystem** where traditional assets meet decentralized finance (DeFi).
 
 ---
 
-## 📜 License
-MIT License © OnsFinance
+## 🎯 Vision
+- Empower users with borderless access to global financial markets.  
+- Tokenize real-world assets to unlock liquidity and efficiency.  
+- Provide transparent, decentralized, and community-driven investment opportunities.
+
+---
+
+## 🛠 Features
+- Tokenized Gold (tGOLD) – pegged to the real price of gold  
+- ONSFI Token – governance, staking, and ecosystem utility  
+- Secure staking and yield farming  
+- Referral & reward programs  
+- Real-time price feeds via oracles
+
